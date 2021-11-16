@@ -17,7 +17,7 @@ class Flute extends Instrument{
         System.out.println("Flute is playing toot toot toot");
     }
 }
-public class Behaviour {
+public class Behavior {
     public static void main(String[] args) {
 
         Instrument obj2 = new Piano();
